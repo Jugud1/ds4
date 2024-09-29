@@ -1,0 +1,14 @@
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\bin\Debug\net8.0\Laboratorio8.9.exe
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\bin\Debug\net8.0\Laboratorio8.9.deps.json
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\bin\Debug\net8.0\Laboratorio8.9.runtimeconfig.json
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\bin\Debug\net8.0\Laboratorio8.9.dll
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\bin\Debug\net8.0\Laboratorio8.9.pdb
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\obj\Debug\net8.0\Laboratorio8.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\obj\Debug\net8.0\Laboratorio8.9.AssemblyInfoInputs.cache
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\obj\Debug\net8.0\Laboratorio8.9.AssemblyInfo.cs
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\obj\Debug\net8.0\Laboratorio8.9.csproj.CoreCompileInputs.cache
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\obj\Debug\net8.0\Laboratorio8.9.dll
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\obj\Debug\net8.0\refint\Laboratorio8.9.dll
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\obj\Debug\net8.0\Laboratorio8.9.pdb
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\obj\Debug\net8.0\Laboratorio8.9.genruntimeconfig.cache
+C:\Users\cegud\source\repos\Laboratorio8.1\Laboratorio8.9\obj\Debug\net8.0\ref\Laboratorio8.9.dll
