@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cegud\\source\\repos\\ds4\\Jugud1\\ds4\\Laboratorio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB00A04-C444-4594-B019-DA8DF431B4E0}|Laboratorio3.3\\Laboratorio3.3.csproj|c:\\users\\cegud\\source\\repos\\ds4\\jugud1\\ds4\\laboratorio3\\laboratorio3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB00A04-C444-4594-B019-DA8DF431B4E0}|Laboratorio3.3\\Laboratorio3.3.csproj|solutionrelative:laboratorio3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C55DE-B43D-42A3-9BB8-D3D5E7C889F1}|Laboratorio3.2\\Laboratorio3.2.csproj|c:\\users\\cegud\\source\\repos\\ds4\\jugud1\\ds4\\laboratorio3\\laboratorio3.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C55DE-B43D-42A3-9BB8-D3D5E7C889F1}|Laboratorio3.2\\Laboratorio3.2.csproj|solutionrelative:laboratorio3.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABD2320-E86B-4AD5-8131-F69B93CD84A5}|Laboratorio3\\Laboratorio3.1.csproj|c:\\users\\cegud\\source\\repos\\ds4\\jugud1\\ds4\\laboratorio3\\laboratorio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABD2320-E86B-4AD5-8131-F69B93CD84A5}|Laboratorio3\\Laboratorio3.1.csproj|solutionrelative:laboratorio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Jugud1\\ds4\\Laboratorio3\\Laboratorio3.3\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio3.3\\Program.cs",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Jugud1\\ds4\\Laboratorio3\\Laboratorio3.3\\Program.cs",
+              "RelativeToolTip": "Laboratorio3.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:27:19.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Jugud1\\ds4\\Laboratorio3\\Laboratorio3.2\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio3.2\\Program.cs",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Jugud1\\ds4\\Laboratorio3\\Laboratorio3.2\\Program.cs",
+              "RelativeToolTip": "Laboratorio3.2\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAxwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:27:16.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Jugud1\\ds4\\Laboratorio3\\Laboratorio3\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio3\\Program.cs",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Jugud1\\ds4\\Laboratorio3\\Laboratorio3\\Program.cs",
+              "RelativeToolTip": "Laboratorio3\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:27:12.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\cegud\\source\\repos\\ds4\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\Laboratorio3.1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\Laboratorio3.1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio8.6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laboratorio8.1\\Laboratorio8.6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laboratorio3.1.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\Laboratorio3.1.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\Laboratorio3.1.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\Laboratorio3.1.AssemblyInfo.cs",
+              "RelativeToolTip": "Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\Laboratorio3.1.AssemblyInfo.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:35:04.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Laboratorio3\\Laboratorio3\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:35:00.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio8.6\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio8.1\\Laboratorio8.6\\Program.cs",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio8.6\\Program.cs",
+              "RelativeToolTip": "Laboratorio8.1\\Laboratorio8.6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:30:52.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Laboratorio 8.8.AssemblyInfoInputs.cache",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfoInputs.cache",
+              "RelativeDocumentMoniker": "Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfoInputs.cache",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfoInputs.cache",
+              "RelativeToolTip": "Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfoInputs.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-09-29T05:30:20.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:30:11.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Laboratorio 8.8.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfo.cs",
+              "RelativeToolTip": "Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:30:09.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laboratorio 8.8.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\cegud\\source\\repos\\ds4\\Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.GlobalUsings.g.cs",
+              "RelativeToolTip": "Laboratorio8.1\\Laboratorio 8.8\\obj\\Debug\\net8.0\\Laboratorio 8.8.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:30:04.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
