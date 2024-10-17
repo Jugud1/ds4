@@ -1,0 +1,10 @@
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\bin\Debug\Laboratorio_13.exe.config
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\bin\Debug\Laboratorio_13.exe
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\bin\Debug\Laboratorio_13.pdb
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\obj\Debug\Laboratorio_13.csproj.AssemblyReference.cache
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\obj\Debug\Laboratorio_13.Form1.resources
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\obj\Debug\Laboratorio_13.Properties.Resources.resources
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\obj\Debug\Laboratorio_13.csproj.GenerateResource.cache
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\obj\Debug\Laboratorio_13.csproj.CoreCompileInputs.cache
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\obj\Debug\Laboratorio_13.exe
+C:\Users\cegud\source\repos\Laboratorio_13\Laboratorio_13\obj\Debug\Laboratorio_13.pdb
